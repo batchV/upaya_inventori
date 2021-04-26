@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$config['base_url'] = 'http://localhost/inventori/';
+$config['base_url'] = 'http://localhost/upaya_inventori/';
 
 $config['index_page'] = '';
 
